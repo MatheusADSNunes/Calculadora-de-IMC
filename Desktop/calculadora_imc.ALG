@@ -11,7 +11,7 @@ Inicio
    Escreva("Agora informe a sua altura (m): ")
    Leia (a)
    imc <- p/(a^2)
-   Escreval("seu IMC é de: ",imc)
+   Escreval("seu IMC Ã© de: ",imc)
    Se ( imc < 17 ) entao
       Escreva ( "Muito abaixo do peso" )
    senao
@@ -41,12 +41,6 @@ Inicio
 FimAlgoritmo
 
 
-
-[DESAFIO] Refaça o algoritmo 25, acrescentando o recurso de mostrar que tipo
-de triângulo será formado:
-- EQUILÁTERO: todos os lados iguais
-- ISÓSCELES: dois lados iguais
-- ESCALENO: todos os lados diferentes
 
 
 
